@@ -1,7 +1,7 @@
 
 # 이승우 Android Junior Developer
 
-현재 Kotlin과 Rx에 관심을 가지고 공부하고 있습니다.
+현재 Kotlin과 Reactive Programming에 관심을 가지고 공부하고 있습니다.
 
 - Email: [jhsw0375@gmail.com](mailto:jhsw0375@gmail.com)
 - Github: [https://github.com/WooVictory](https://github.com/WooVictory)
@@ -20,6 +20,23 @@
 Android, Java, Kotlin, Github
 
 ## **프로젝트**
+
+### [FOR URTH](https://github.com/desingdeveloperdayday/PickedUpMole_ForEarthForUs)
+
+지구를 위한 환경 보호 실천 미션 리스트 제공 애플리케이션입니다.
+
+> DDD. 2기에서 진행한 프로젝트입니다.
+
+- 기간 : 2019.04.15 - 2019.07.06
+- 언어 : Kotlin
+- 역할
+  - MVVM 패턴 적용하여 프로젝트 구성
+  - RxJava를 이용한 네트워크 통신 기능 구현
+  - koin을 이용한 DI 적용
+- 관련 기술
+  - `Android`, `MVVM`, `Kotlin`, `koin`, `AAC`, `Glide`, `Retrofit2`
+- [Github Repository](https://github.com/desingdeveloperdayday/PickedUpMole_ForEarthForUs)
+
 
 ### [하루듣기](https://github.com/WooVictory/boostcamp3_H)
 
