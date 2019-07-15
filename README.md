@@ -91,9 +91,10 @@ DMZ에 대한 인식을 개선하고, DMZ 지역의 관광을 활성화 하는 *
 
 ### [DDD](https://medium.com/@dddstudy1).(Designer Developer Day Day)
 
-- 기간 : 2019.03 ~ 진행 중
+- 기간 : 2019.03 ~ 2019.07.06
 - 디자이너, 개발자가 모여 함께 기획부터 프로젝트 개발까지 진행
 - Android 개발자는 1가지 주제를 정해 스터디 진행(Reactive Programming)
+- 지구를 위한 환경 보호 실천 미션 리스트 제공 앱 서비스 [FOR URTH](https://github.com/desingdeveloperdayday/PickedUpMole_ForEarthForUs) 개발.
 
 ### [Boost Camp Android 과정 3기](http://boostcamp.connect.or.kr/)
 
