@@ -1,6 +1,7 @@
 
 # 이승우
 안녕하세요. 안드로이드 개발자 이승우입니다.
+
 현재 Kotlin과 Reactive Programming에 관심을 가지고 공부하고 있습니다.
 
 - Email: [jhsw0375@gmail.com](mailto:jhsw0375@gmail.com)
