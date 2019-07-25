@@ -1,6 +1,6 @@
 
-# 이승우 Android Junior Developer
-
+# 이승우
+안녕하세요. 안드로이드 개발자 이승우입니다.
 현재 Kotlin과 Reactive Programming에 관심을 가지고 공부하고 있습니다.
 
 - Email: [jhsw0375@gmail.com](mailto:jhsw0375@gmail.com)
@@ -114,7 +114,7 @@ DMZ에 대한 인식을 개선하고, DMZ 지역의 관광을 활성화 하는 *
 
 ### [S.O.P.T](http://sopt.org/wp/)(Shout Our Passiong Together)
 
-- 기간 : 2017.09 ~ 2018.12
+- 기간 : 2017.09 ~ 2018.12 (1년 3개월)
 - 기획, 디자인, 개발 분야별로 세미나 진행
 - 2주 동안 기획자, 디자이너, 개발자가 한 팀을 이루어 프로젝트를 수행, 애플리케이션 개발.
 - 23기 : 안드로이드 개발자로 참여해 스터디 진행
