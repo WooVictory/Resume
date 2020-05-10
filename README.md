@@ -19,7 +19,12 @@
 
 ## **Skills**
 
-Android, Java, Kotlin, Github, Slack
+- Android 
+- Java, Kotlin
+- MVVM, MVP
+- RxJava
+- Github
+- Slack
 
 ## **Projects**
 
