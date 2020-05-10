@@ -1,5 +1,4 @@
 
-# 이승우
 안녕하세요. 안드로이드 개발자 이승우입니다.
 
 현재 Kotlin과 Reactive Programming에 관심을 가지고 공부하고 있습니다.
@@ -9,18 +8,18 @@
 - Blog: [https://woovictory.github.io/](https://woovictory.github.io/)
 - LinkdIn: [https://www.linkedin.com/in/seungwoo-lee-590844177](https://www.linkedin.com/in/seungwoo-lee-590844177)
 
-## **학력**
+## **Educations**
 
 - 인천대학교 정보기술대학 컴퓨터 공학과
   - 기간: 2013.03 ~ 2019.08
 - 작전고등학교 졸업
   - 기간: 2010.03 ~ 2013.03
 
-## **보유 기술**
+## **Skills**
 
 Android, Java, Kotlin, Github, Slack
 
-## **프로젝트**
+## **Projects**
 
 ### [FOR URTH](https://github.com/desingdeveloperdayday/PickedUpMole_ForEarthForUs)
 
@@ -88,7 +87,7 @@ DMZ에 대한 인식을 개선하고, DMZ 지역의 관광을 활성화 하는 *
   - `Android`, `Kotlin`, `Java`, `Glide`, `Retrofit2`, `Lottie`, `IamPort`, `SharedPreferences`, `Gson`
 - [Github Repository](https://github.com/WooVictory/MeowBox-Android)
 
-## 활동 내역
+## Activities
 
 ### [DDD](https://medium.com/@dddstudy1).(Designer Developer Day Day)
 
@@ -122,7 +121,7 @@ DMZ에 대한 인식을 개선하고, DMZ 지역의 관광을 활성화 하는 *
 - 22기 : 반려묘를 위한 수제 간식 및 용품 구독 서비스 [MeowBox](https://github.com/WooVictory/MeowBox-Android) 개발.
 - [Github Repository](https://github.com/WooVictory/Inno_SOPT_22th_Android)
 
-## **수상**
+## **Prizes**
 
 - **SKT 스마트 관광 앱 공모전 장려상 'DMZing'**
   - 수상 년도 : 2018.12
