@@ -133,7 +133,7 @@ DMZ에 대한 인식을 개선하고, DMZ 지역의 관광을 활성화 하는 *
 - **SKT 스마트 관광 앱 공모전 장려상 'DMZing'**
   - 수상 년도 : 2018.12.17
 - **SOPT x KB 금융 App Challenge prototype 최우수상 'LiivLive'**
-  - 수상 년도 : 2018.11
+  - 수상 년도 : 2018.11.26
 - **대학생 IT 동아리 SOPT 대상 : MeowBox**
   - 수상 년도 : 2018.07.14
 
