@@ -100,13 +100,13 @@ DMZ에 대한 인식을 개선하고, DMZ 지역의 관광을 활성화 하는 *
 
 - 기간 : 2019.03 ~ 2019.07.06 (3개월)
 - 디자이너, 개발자가 모여 함께 기획부터 프로젝트 개발까지 진행
-- Android 개발자는 1가지 주제를 정해 스터디 진행(Reactive Programming)
+- RxJava에 대해 스터디 진행
 - 지구를 위한 환경 보호 실천 미션 리스트 제공 앱 서비스 [FOR URTH](https://github.com/desingdeveloperdayday/PickedUpMole_ForEarthForUs) 개발.
 
 ### [Boost Camp Android 과정 3기](http://boostcamp.connect.or.kr/)
 
 - 기간 : 2019.01.21 ~ 2019.02.22 (1개월)
-- Naver 커넥트 재단에서 주최한 캠프
+- 네이버 커넥트 재단에서 주최한 캠프
 - Android 실무 협업 방식을 배우고 3인 1팀으로 구성되어 프로젝트 진행
 - 오프라인 멘토링, Slack, Github을 이용한 코드 리뷰 등을 통해 멘토링 진행
 - 현업 개발자의 세미나 진행
