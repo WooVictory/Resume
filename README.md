@@ -28,6 +28,20 @@
 
 ## **Projects**
 
+### Simple Memo
+텍스트 기반의 메모, 사진 첨부가 가능한 메모를 작성할 수 있는 애플리케이션입니다.
+
+> 1인 프로젝트
+
+- 기간 : 2020.03 - 2020.07
+- 언어 : Kotlin
+- 역할
+  - Android App 개발
+- 관련 기술
+  - `Android`, `MVVM`, `Kotlin`, `koin`, `AAC`, `Glide`, `Retrofit2`, `Clean Architecture`, `Navigation Graph`, `JetPack`
+- [Google Play Store](https://play.google.com/store/apps/details?id=app.woovictory.memonote)
+
+
 ### [FOR URTH](https://github.com/desingdeveloperdayday/PickedUpMole_ForEarthForUs)
 
 지구를 위한 환경 보호 실천 미션 리스트 제공 애플리케이션입니다.
