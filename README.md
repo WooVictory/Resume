@@ -28,7 +28,7 @@
 
 ## **Projects**
 
-### Simple Memo
+### [Simple Memo](https://play.google.com/store/apps/details?id=app.woovictory.memonote)
 텍스트 기반의 메모, 사진 첨부가 가능한 메모를 작성할 수 있는 애플리케이션입니다.
 
 > 1인 프로젝트
