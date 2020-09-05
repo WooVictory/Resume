@@ -38,7 +38,7 @@
 - 역할
   - Android App 개발
 - 관련 기술
-  - `Android`, `MVVM`, `Kotlin`, `koin`, `AAC`, `Glide`, `Retrofit2`, `Clean Architecture`, `Navigation Graph`, `JetPack`
+  - `Android`, `MVVM`, `List Adapter`, `Kotlin`, `koin`, `AAC`, `Glide`, `Retrofit2`, `Clean Architecture`, `Navigation Graph`, `JetPack`
 - [Google Play Store](https://play.google.com/store/apps/details?id=app.woovictory.memonote)
 
 
