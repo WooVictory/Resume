@@ -5,10 +5,10 @@
 
 현재 Kotlin과 Reactive Programming에 관심을 가지고 공부하고 있습니다.
 
-- Email: [jhsw0375@gmail.com](mailto:jhsw0375@gmail.com)
-- Github: [https://github.com/WooVictory](https://github.com/WooVictory)
-- Blog: [https://woovictory.github.io/](https://woovictory.github.io/)
-- LinkdIn: [https://www.linkedin.com/in/seungwoo-lee-590844177](https://www.linkedin.com/in/seungwoo-lee-590844177)
+- [Email](mailto:jhsw0375@gmail.com)
+- [Github](https://github.com/WooVictory)
+- [Blog](https://woovictory.github.io/)
+- [Linkedin](https://www.linkedin.com/in/seungwoo-lee-590844177)
 
 ## **Educations**
 
