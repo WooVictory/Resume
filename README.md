@@ -2,7 +2,7 @@
 ## Resume
 
 안녕하세요. 안드로이드 개발자 이승우입니다.
-
+<br>
 현재 Kotlin과 Reactive Programming에 관심을 가지고 공부하고 있습니다.
 
 - [Email](mailto:jhsw0375@gmail.com)
@@ -21,17 +21,18 @@
 
 - Android 
 - Java, Kotlin
-- MVVM, MVP
+- MVVM, MVP, Clean Architecture
 - RxJava
 - Github
 - Slack
+- Zeplin
 
 ## **Projects**
 
 ### [Simple Memo](https://play.google.com/store/apps/details?id=app.woovictory.memonote)
 텍스트 기반의 메모, 사진 첨부가 가능한 메모를 작성할 수 있는 애플리케이션입니다.
 
-> 1인 프로젝트
+> 개인 프로젝트
 
 - 기간 : 2020.03 - 진행중
 - 언어 : Kotlin
