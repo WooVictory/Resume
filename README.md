@@ -10,6 +10,13 @@
 - [Blog](https://woovictory.github.io/)
 - [Linkedin](https://www.linkedin.com/in/seungwoo-lee-590844177)
 
+
+## **Career**
+
+### 뱅크 샐러드 
+- 2020.11.23 ~ 
+- Android Engineer
+
 ## **Educations**
 
 - 인천대학교 정보기술대학 컴퓨터 공학과
