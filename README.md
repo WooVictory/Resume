@@ -31,8 +31,6 @@
 - MVVM, MVP, Clean Architecture
 - RxJava
 - Github
-- Slack
-- Zeplin
 
 ## **Projects**
 
