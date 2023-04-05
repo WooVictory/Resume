@@ -96,7 +96,6 @@ DMZ에 대한 인식을 개선하고, DMZ 지역의 관광을 활성화 하는 *
 - 관련 기술
   - `Android`, `Kotlin`, `Glide`, `Retrofit2`, `SharedPreferences`, `Gson`, `CircleImageView`
 - [Github Repository](https://github.com/WooVictory/DMZing-Andorid)
-- [Google Play Store](https://play.google.com/store/apps/details?id=dmzing.workd)
 
 ### [MeowBox](https://github.com/WooVictory/MeowBox-Android)
 
